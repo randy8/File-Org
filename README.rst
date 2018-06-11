@@ -2,7 +2,7 @@
 File Organization
 *****************
 
-Automatic Table of Contents:
+Table of Contents:
 
 .. contents::
     :local:
